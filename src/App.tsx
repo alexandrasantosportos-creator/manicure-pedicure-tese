@@ -161,7 +161,7 @@ export default function App() {
           <div className="flex items-center gap-4 md:gap-6">
             <a href="#agenda" className="hidden md:block text-sm font-medium hover:text-accent transition-colors">Agenda</a>
             <a href="#servicos" className="hidden md:block text-sm font-medium hover:text-accent transition-colors">Serviços</a>
-            <button className="luxury-button !py-2 !px-4 md:!px-6 text-xs md:text-sm whitespace-nowrap">Agendar Agora</button>
+            <a href="#agenda" className="luxury-button !py-2 !px-4 md:!px-6 text-xs md:text-sm whitespace-nowrap text-center">Agendar Agora</a>
           </div>
         </div>
       </nav>
